@@ -1,10 +1,11 @@
-### Hola 👋, Mi nombre es María Paula 🦄
+![giphy](https://user-images.githubusercontent.com/132369182/236972200-922cc036-0f04-45eb-97dd-f2337d37a50b.gif)
 
-![Uploading scaler-create-impact.gif…]()
+
+### Hola 👋, Mi nombre es María Paula 🦄
 
 #### Soy diseñadora gráfica y estudiante de Full Stack Development 👩🏻‍💻
 Me encanta el café ☕ y los gatitos 🐈
-Siempre estoy en constante aprendizaje 📚 
+Estoy en constante aprendizaje 📚 
 Soy un entusiasta del desarrollo web
 
 Habilidades: HTML / CSS / Illustrator / Photoshop / After Effects
