@@ -3,7 +3,7 @@
 ### Hola 👋, Mi nombre es María Paula 🦄
 
 #### Soy diseñadora gráfica, web y actualmente estudiante de Full Stack Web Development 👩🏻‍💻
-Me encanta el café ☕ y los gatitos 🐈
+Me encanta el café ☕ y los gatitos. 🐈
 Estoy en constante aprendizaje 📚 
 Soy diseñadora hace 10 años y entusiasta del desarrollo web, a largo de los años he podido colaborar en diversos proyectos para empresas y startups.
 
