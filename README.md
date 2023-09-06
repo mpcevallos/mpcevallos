@@ -2,12 +2,12 @@
 
 ### Hola 👋, Mi nombre es María Paula 🦄
 
-#### Soy diseñadora gráfica, web y actualmente estudiante de Full Stack Web Development 👩🏻‍💻
+#### Soy diseñadora gráfica y actualmente estudiante de Full Stack Development 👩🏻‍💻
 Me encanta el café ☕ y los gatitos. 🐈
 Estoy en constante aprendizaje 📚 
 Soy diseñadora hace 10 años y entusiasta del desarrollo web, a largo de los años he podido colaborar en diversos proyectos para empresas y startups.
 
-Habilidades: HTML / CSS / Illustrator / Photoshop / After Effects
+Habilidades: HTML / CSS / Javascript / Illustrator / Photoshop / After Effects
 
 - 🌱 Estoy aprendiendo Web Development 
 - 📫 Cómo contactarme: mpcevallos@gmail.com 
