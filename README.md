@@ -2,15 +2,33 @@
 
 ### Hola 👋, Mi nombre es María Paula 🦄
 
-#### Soy diseñadora gráfica y actualmente estudiante de Full Stack Development 👩🏻‍💻
-Me encanta el café ☕ y los gatitos. 🐈
-Estoy en constante aprendizaje 📚 
-Soy diseñadora hace 10 años y entusiasta del desarrollo web, a largo de los años he podido colaborar en diversos proyectos para empresas y startups.
+#### I’m a Graphic Designer and currently a Full Stack Development student 👩🏻‍💻
+I love coffee ☕ and cats 🐈
+I’m always learning 📚
+With 10 years of experience in design, I have collaborated on various projects for companies and startups. I'm also passionate about web development.
 
-Habilidades: HTML / CSS / Javascript / Illustrator / Photoshop / After Effects
+#### Technical Expertise: 
+• HTML
+• CSS
+• JavaScript
+• React
+• Node JS
+• Illustrator
+• Photoshop
+• After Effects
+• CMS WordPress
 
-- 🌱 Estoy aprendiendo Web Development 
-- 📫 Cómo contactarme: mpcevallos@gmail.com 
+#### Soft Skills & Strengths:
+
+• Web Design
+• Planning and Strategy
+• Proactivity
+• Results-Oriented Approach
+• Self-Discipline
+• Teamwork
+
+🌱 Currently learning Web Development
+📫 Contact me at: mpcevallos@gmail.com
 
 ![giphy](https://user-images.githubusercontent.com/132369182/236972200-922cc036-0f04-45eb-97dd-f2337d37a50b.gif)
 
