@@ -1,6 +1,6 @@
 ![1_QFRce-OnlybDjvWhMX8Y-w](https://user-images.githubusercontent.com/132369182/236986096-ef742ddd-722a-4a87-8af1-7350b206fa17.gif)
 
-### Hola 👋, Mi nombre es María Paula 🦄
+### Hi 👋, Mi name is María Paula 🦄
 
 #### I’m a Graphic Designer and currently a Full Stack Development student 👩🏻‍💻
 I love coffee ☕ and cats 🐈
