@@ -1,4 +1,4 @@
-![1_QFRce-OnlybDjvWhMX8Y-w](https://user-images.githubusercontent.com/132369182/236986096-ef742ddd-722a-4a87-8af1-7350b206fa17.gif)
+![1_QFRce-OnlybDjvWhMX8Y-w](https://drive.google.com/file/d/1z5gG4vt-EY4Cg6yv0Gb1zJ3zN_jQBJjR/view?usp=drive_link)
 
 # 👋 Hi, I'm María Paula 🦄
 
