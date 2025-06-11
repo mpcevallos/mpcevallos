@@ -13,13 +13,11 @@ I love working with **multidisciplinary teams** to craft products that are not o
 ![UI/UX](https://img.shields.io/badge/UX%2FUI-Expert-teal)
 ![Remote Ready](https://img.shields.io/badge/Remote%20Ready-✔️-brightgreen)
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mpcevallos/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://ec.linkedin.com/in/mpcevallos/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/mapaulacj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/mapaulac3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/mpcevallos)  
 
 ---
 
-## 👩‍💻 Technical Expertise
-### 🛠️ Tech Stack & Tools
+## 👩‍💻 Tech Stack & Tools
 
 <!-- Languages -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,6 +61,4 @@ I love working with **multidisciplinary teams** to craft products that are not o
 ## 📊 GitHub Stats
 
 ![Maria Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpcevallos&show_icons=true&theme=radical)
--->
 
-![giphy](https://user-images.githubusercontent.com/132369182/236972200-922cc036-0f04-45eb-97dd-f2337d37a50b.gif)
