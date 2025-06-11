@@ -14,6 +14,8 @@ I love working with **multidisciplinary teams** to craft products that are not o
 ![Remote Ready](https://img.shields.io/badge/Remote%20Ready-✔️-brightgreen)
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mpcevallos/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://ec.linkedin.com/in/mpcevallos/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/mapaulacj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/mapaulac3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/mpcevallos)  
+
 ---
 
 ## 👩‍💻 Technical Expertise
@@ -55,8 +57,6 @@ I love working with **multidisciplinary teams** to craft products that are not o
 - 🔗 [Portfolio Website](https://paudevportfolio.netlify.app/)  
 - 💼 [LinkedIn Profile](https://ec.linkedin.com/in/mpcevallos/)  
 - 📫 Email: [mpcevallos@gmail.com](mailto:mpcevallos@gmail.com)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mpcevallos/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://ec.linkedin.com/in/mpcevallos/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/mapaulacj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/mapaulac3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/mpcevallos)  
 
 ---
 
