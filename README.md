@@ -1,4 +1,4 @@
-![1_QFRce-OnlybDjvWhMX8Y-w](https://drive.google.com/file/d/1z5gG4vt-EY4Cg6yv0Gb1zJ3zN_jQBJjR/view?usp=drive_link)
+![1_QFRce-OnlybDjvWhMX8Y-w](https://res.cloudinary.com/cloudpaudev/image/upload/v1749684585/banner-mpcj-linkedin_jphovv.jpg)
 
 # 👋 Hi, I'm María Paula 🦄
 
