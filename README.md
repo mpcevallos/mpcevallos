@@ -8,6 +8,12 @@ I blend **design and development expertise** to build visually compelling and hi
 
 I love working with **multidisciplinary teams** to craft products that are not only beautiful, but also smart, scalable, and impactful.
 
+![Designer](https://img.shields.io/badge/🎨-Designer-blueviolet)
+![Frontend Developer](https://img.shields.io/badge/👩🏻‍💻-Frontend%20Developer-ff69b4)
+![UI/UX](https://img.shields.io/badge/UX%2FUI-Expert-teal)
+![Remote Ready](https://img.shields.io/badge/Remote%20Ready-✔️-brightgreen)
+
+
 ---
 
 ## 👩‍💻 Technical Expertise
