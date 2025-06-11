@@ -1,4 +1,9 @@
-![1_QFRce-OnlybDjvWhMX8Y-w](https://res.cloudinary.com/cloudpaudev/image/upload/v1749684585/banner-mpcj-linkedin_jphovv.jpg)
+![1_QFRce-OnlybDjvWhMX8Y-w](https://res.cloudinary.com/cloudpaudev/image/upload/v1749686276/banner-mpcj-github_nul3j9.png)
+
+![Designer](https://img.shields.io/badge/🎨-Designer-blueviolet)
+![Frontend Developer](https://img.shields.io/badge/👩🏻‍💻-Frontend%20Developer-ff69b4)
+![UI/UX](https://img.shields.io/badge/UX%2FUI-Expert-teal)
+![Remote Ready](https://img.shields.io/badge/Remote%20Ready-✔️-brightgreen)
 
 # 👋 Hi, I'm María Paula 🦄
 
@@ -7,11 +12,6 @@ I'm a **Frontend Designer & UI/UX Specialist** with **10+ years of experience** 
 I blend **design and development expertise** to build visually compelling and highly functional interfaces. Skilled in **wireframing**, **prototyping (Figma)**, and **frontend technologies** like HTML, CSS, JavaScript, and React, I’ve contributed to IT and digital projects across diverse industries—ensuring responsive, accessible, and seamless user experiences.
 
 I love working with **multidisciplinary teams** to craft products that are not only beautiful, but also smart, scalable, and impactful.
-
-![Designer](https://img.shields.io/badge/🎨-Designer-blueviolet)
-![Frontend Developer](https://img.shields.io/badge/👩🏻‍💻-Frontend%20Developer-ff69b4)
-![UI/UX](https://img.shields.io/badge/UX%2FUI-Expert-teal)
-![Remote Ready](https://img.shields.io/badge/Remote%20Ready-✔️-brightgreen)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mpcevallos/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://ec.linkedin.com/in/mpcevallos/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/mapaulacj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/mapaulac3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/mpcevallos)  
 
