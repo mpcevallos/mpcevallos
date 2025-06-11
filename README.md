@@ -50,7 +50,7 @@ I love working with **multidisciplinary teams** to craft products that are not o
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Let´s Connect
 
 - 🔗 [Portfolio Website](https://paudevportfolio.netlify.app/)  
 - 💼 [LinkedIn Profile](https://ec.linkedin.com/in/mpcevallos/)  
